@@ -20,7 +20,7 @@ A portfolio website showcasing my work in photography, Canva, and UI/UX design.
 ## Social Media
 
 - [Instagram](https://www.instagram.com/pertalite_turbooooo/)
-- [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/herodion-yulis-putra-anugah-67b8992a5/))
+- [LinkedIn](https://www.linkedin.com/in/herodion-yulis-putra-anugah-67b8992a5/)
 
 
 ## Technologies I Use
